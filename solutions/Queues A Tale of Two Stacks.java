@@ -25,6 +25,7 @@ public class Solution {
     }
 }
 
+
 class MyQueue<T> extends ArrayList<T> {
 
     public void enqueue(T i){
